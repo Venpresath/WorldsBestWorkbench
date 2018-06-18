@@ -2,6 +2,23 @@ html{
     height: 100%;
 }
 
+.socialMedia{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.iconContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+i{
+    color: whitesmoke;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -115,5 +132,4 @@ button span {
         height: 50%;
         font-size: 3vw;
     }
-
 }
