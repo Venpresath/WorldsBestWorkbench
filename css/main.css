@@ -132,4 +132,7 @@ button span {
         height: 50%;
         font-size: 3vw;
     }
+    .socialMedia{
+        margin-bottom: 3%;
+    }
 }
